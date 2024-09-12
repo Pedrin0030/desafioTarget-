@@ -1,0 +1,4 @@
+Primeiro irei ligar o primeiro interruptor e esperar um tempo que faça que a lampada se aqueça.
+Depois desligo o primeiro interruptor e ligo o segundo interruptor.
+Depois disso vou até a sala das lâmpadas e vejo que o que estiver aceso é ligado pelo primeiro interruptor e o que estiver com a luz acessa é do segundo interruptor.
+E por fim vejo a lampada que está apagada e fria é conectado com o terceiro interruptor.
